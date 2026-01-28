@@ -32,7 +32,7 @@ export function Footer() {
                     <div className="flex flex-col sm:flex-row items-start sm:items-center gap-6 flex-wrap">
                         <a href="/" className="flex items-center gap-2">
                             <span className="text-xl font-bold font-gelasio text-foreground">
-                                CA<span className="text-primary"> Monk</span>
+                                We -<span className="text-primary"> Blog</span>
                             </span>
                         </a>
 
@@ -171,7 +171,7 @@ export function Footer() {
 
                 <div className="mt-8 pt-6 border-t border-border">
                     <p className="text-center text-sm font-inter text-muted-foreground">
-                        © {new Date().getFullYear()} CA Monk. All rights reserved.
+                        © {new Date().getFullYear()} We - Blog. All rights reserved.
                     </p>
                 </div>
             </div>

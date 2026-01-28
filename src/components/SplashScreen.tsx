@@ -24,7 +24,7 @@ export function SplashScreen({ onComplete, minimumDuration = 2000 }: SplashScree
         >
             <div className="animate-pulse">
                 <h1 className="text-5xl md:text-7xl font-bold font-gelasio text-foreground">
-                    CA<span className="text-primary"> Monk</span>
+                    We -<span className="text-primary"> Blog</span>
                 </h1>
             </div>
 

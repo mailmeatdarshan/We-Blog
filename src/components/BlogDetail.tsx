@@ -171,7 +171,7 @@ export function BlogDetail({ blogId }: BlogDetailProps) {
                     <div>
                         <p className="text-sm text-muted-foreground font-inter">Written by</p>
                         <p className="font-gelasio font-semibold text-foreground">
-                            {blog.author?.name || "CA Monk Team"}
+                            {blog.author?.name || "We - Blog Team"}
                         </p>
                         {(blog.author?.bio || !blog.author) && (
                             <p className="text-sm text-muted-foreground font-inter mt-1">

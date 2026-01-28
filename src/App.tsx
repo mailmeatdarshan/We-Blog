@@ -31,7 +31,7 @@ function AppContent() {
         <div className="flex items-center gap-10">
           <a href="/" className="flex items-center gap-2">
             <span className="text-2xl font-bold font-gelasio text-foreground">
-              CA<span className="text-primary"> Monk</span>
+              We -<span className="text-primary"> Blog</span>
             </span>
           </a>
           <Navbar />
